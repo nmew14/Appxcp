@@ -2540,6 +2540,10 @@
         "api": "https://englishvijenderapi.classx.co.in"
     },
     {
+        "name": "Englishconnection",
+        "api": "https://englishconnectionapi.classx.co.in"
+
+        
         "name": "Englishdiscovery",
         "api": "https://englishdiscoveryapi.classx.co.in"
     },
